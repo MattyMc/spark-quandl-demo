@@ -1,0 +1,1 @@
+STOCK_SYMBOLS = ["APPL", "FB", "TSLA", "TRTC", "ANF", "UAL", "SPY", "RIGL", "POT", "AMZN", "SPU", "AGU", "MSFT", "GOOG", "AMZN", "XOM", "JNJ", "GE", "WFC", "WMT", "PFE", "KO", "ORCL", "BAC", "INTC", "V", "DIS", "PIP"]
